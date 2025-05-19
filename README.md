@@ -50,15 +50,16 @@ To run this project locally:
 ---
 
 📸 Screenshots
-![9](https://github.com/user-attachments/assets/4564c839-8bb0-4dbd-953e-37ff176d3fce)
-![8](https://github.com/user-attachments/assets/1849f34f-6e07-4462-a672-c7e88df35d53)
-![7](https://github.com/user-attachments/assets/b6e3267a-9a67-4b73-bd51-f441f5167e27)
-![6](https://github.com/user-attachments/assets/e79d30a8-c8be-4c0a-92c1-e05cbdf054b5)
-![5](https://github.com/user-attachments/assets/1889e277-e56a-4fe4-8127-4ea894dc37d6)
-![4](https://github.com/user-attachments/assets/20bae72c-2713-4d09-b184-39d7fd2aa027)
-![3](https://github.com/user-attachments/assets/33953592-b9a9-41b4-93e1-466e4ea0feb4)
-![2](https://github.com/user-attachments/assets/926a7fa7-a785-472e-b56f-f467a7cf9096)
-![1](https://github.com/user-attachments/assets/6adc7664-f00d-4c4e-851f-50f9b75893a0)
+![1](https://github.com/user-attachments/assets/baf529a9-fef9-451c-89d5-163fff16d42f)
+![2](https://github.com/user-attachments/assets/c0f53e66-bd25-4b70-a4df-d238a8f3a13e)
+![3](https://github.com/user-attachments/assets/932ec2ed-329e-4907-bc84-bb9effed1645)
+![4](https://github.com/user-attachments/assets/ac7c50d0-c78b-43d2-8d4d-b304d4bd14b0)
+![5](https://github.com/user-attachments/assets/8994dc11-d9e4-4c2f-8541-71e508ce4690)
+![6](https://github.com/user-attachments/assets/a232d502-28d6-4235-9bb2-74bd772b7db0)
+![7](https://github.com/user-attachments/assets/bf565500-63ec-4423-8d17-7e017444b2d5)
+![8](https://github.com/user-attachments/assets/96861138-0646-42cd-a309-f4613ad55bc5)
+![9](https://github.com/user-attachments/assets/10015c17-6dd6-4a90-b01f-e478f94ea070)
+
 
 ---
 
