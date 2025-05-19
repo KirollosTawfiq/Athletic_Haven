@@ -27,9 +27,9 @@ const Navbar = () => {
           to="/"
           style={{
             textDecoration: "none",
-            color: "#ff2625",
-            // borderBottom: "3px solid #ff2625",
+            color: "#3A1212",
           }}
+          className="nav"
         >
           Home
         </Link>
@@ -38,12 +38,23 @@ const Navbar = () => {
           href="#exercises"
           style={{
             textDecoration: "none",
-            color: "#ff2625",
-            // borderBottom: "3px solid #ff2625",
+            color: "#3A1212",
           }}
+          className="nav"
         >
           Exercises
         </a>
+
+        <Link
+          to="/schedule"
+          style={{
+            textDecoration: "none",
+            color: "#3A1212",
+          }}
+          className="nav"
+        >
+          Schedule
+        </Link>
       </Stack>
     </Stack>
   );

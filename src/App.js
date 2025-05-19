@@ -1,6 +1,7 @@
 import React from "react";
 import "./App.css";
 import { Route, Routes } from "react-router-dom";
+import Schedule from "./components/Schedule";
 
 // COMPONENTS
 import Navbar from "./components/Navbar";
@@ -20,6 +21,7 @@ const App = () => {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/exercise/:id" element={<ExerciseDetail />} />
+        <Route path="/schedule" element={<Schedule />} />
       </Routes>
 
       <Footer />

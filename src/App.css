@@ -141,3 +141,8 @@ body {
     width: 280px;
   }
 }
+
+.nav:hover {
+  border-bottom: 3px solid #ff2625;
+  font-size: 25px;
+}

@@ -40,6 +40,7 @@ const HeroBanner = () => {
         sx={{
           opacity: "0.1",
           display: { lg: "Block", xs: "none" },
+          ml: -1,
         }}
         fontSize="150px"
       >
