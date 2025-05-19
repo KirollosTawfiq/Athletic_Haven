@@ -51,7 +51,7 @@ const Exercises = () => {
 
   return (
     <Box id="exercises" sx={{ mt: { lg: "110px" } }} mt="50px" p="20px">
-      <Typography variant="h4" mb="46px">
+      <Typography variant="h4" mb="46px" ml={4}>
         Showing Results:
       </Typography>
       <Stack
